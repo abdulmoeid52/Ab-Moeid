@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python for back-end . 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me !
-      email address : abduulmoeid52@gmail.com
+      email address : abdulmoeid52@gmail.com
 
 <!---
 Ab-Moeid/Ab-Moeid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
